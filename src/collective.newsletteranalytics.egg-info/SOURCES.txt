@@ -1,0 +1,13 @@
+README.txt
+setup.py
+src/collective/__init__.py
+src/collective.newsletteranalytics.egg-info/PKG-INFO
+src/collective.newsletteranalytics.egg-info/SOURCES.txt
+src/collective.newsletteranalytics.egg-info/dependency_links.txt
+src/collective.newsletteranalytics.egg-info/entry_points.txt
+src/collective.newsletteranalytics.egg-info/namespace_packages.txt
+src/collective.newsletteranalytics.egg-info/not-zip-safe
+src/collective.newsletteranalytics.egg-info/requires.txt
+src/collective.newsletteranalytics.egg-info/top_level.txt
+src/collective/newsletteranalytics/__init__.py
+src/collective/newsletteranalytics/newsletteranalytics/__init__.py
